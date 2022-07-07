@@ -46,6 +46,8 @@ Now I will come to **"Data Cleaning"**
 Tomorrow i will have a look at the exercises, they provide. 
 I found this exercises today. 
 
+At some point, I have to find out, what kind of language we use here, so I can hide the examples. 
+
 **Link(s) to work**
 1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 2. [https://github.com/ine-rmotr-curriculum](https://github.com/ine-rmotr-curriculum)
