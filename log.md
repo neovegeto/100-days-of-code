@@ -1,5 +1,5 @@
-# 100 Days Of Code - Log
-
+# 100 Days Of Code - Log (2022)
+<!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -18,7 +18,7 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
+--->
 ### Day 1: June 6, Wednesday
 
 **Today's Progress**: I've started the path for 'Data Analysis with Python' on FreeCodeCamp.
@@ -51,3 +51,26 @@ At some point, I have to find out, what kind of language we use here, so I can h
 **Link(s) to work**
 1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 2. [https://github.com/ine-rmotr-curriculum](https://github.com/ine-rmotr-curriculum)
+
+### Day 3: June 8, Friday
+
+**Today's Progress**: Today I did several exercises from [https://www.freecodecamp.org/](https://www.freecodecamp.org/) and their GitHup.
+It was not this difficult. So I read additional material on [https://www.learnpython.org/](https://www.learnpython.org/).
+
+I also looked up, which kind of langugage we are using here.
+According to my research it should be [Markdown](https://www.markdownguide.org/).
+
+I also figured out how to comment out the first day, according to this [website](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9).
+We will if it worked. 
+
+`As answers to this Stack Overflow question reveal, using <!--- and ---> or <!-- and --> works (view source by clicking "Raw"):`
+
+**Thoughts** I need to find better training options. Maybe I should
+hang out in Codewars or check other **100 Days of Coding**-Blogs.
+
+
+**Link(s) to work**
+1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+2. [https://github.com/ine-rmotr-curriculum](https://github.com/ine-rmotr-curriculum)
+3. [Markdown](https://www.markdownguide.org/)
+4. [Comments](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9)
