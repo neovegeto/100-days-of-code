@@ -74,3 +74,16 @@ hang out in Codewars or check other **100 Days of Coding**-Blogs.
 2. [https://github.com/ine-rmotr-curriculum](https://github.com/ine-rmotr-curriculum)
 3. [Markdown](https://www.markdownguide.org/)
 4. [Comments](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9)
+
+### Day 4: June 11, Monday
+
+**Today's Progress**: I watched a bunch of videos for the statistic part of Data Analysis.
+The recommended YouTube channel was [StatQuest](https://www.youtube.com/c/joshstarmer).
+I've also read lectures on the [https://www.learnpython.org/](https://www.learnpython.org/).
+
+**Thoughts** I'm watching a lot of videos. I should also focus on practical knowledge.
+
+
+**Link(s) to work**
+1. [LearnPython](https://www.learnpython.org/)
+2. [StatQuest on Youtube](https://www.youtube.com/c/joshstarmer)
