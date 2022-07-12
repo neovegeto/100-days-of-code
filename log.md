@@ -87,3 +87,14 @@ I've also read lectures on the [https://www.learnpython.org/](https://www.learnp
 **Link(s) to work**
 1. [LearnPython](https://www.learnpython.org/)
 2. [StatQuest on Youtube](https://www.youtube.com/c/joshstarmer)
+
+### Day 5: June 12, Tuesday
+
+**Today's Progress**: So I did it! I have done a bunch of exercises on
+the [website](https://automatetheboringstuff.com). I'm so proud.
+It was a good run. Maybe I find special stuff for Data Anlayst, but for starters I will keep doing it.
+
+**Thoughts** I have done good stuff. I'm proud of myself.
+
+**Link(s) to work**
+1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
