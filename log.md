@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log (2022)
+
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -19,6 +20,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 --->
+
 ### Day 1: June 6, Wednesday
 
 **Today's Progress**: I've started the path for 'Data Analysis with Python' on FreeCodeCamp.
@@ -26,6 +28,7 @@
 **Thoughts** I want to change my chareer path, so now I'm looking into Data Analysis, after I finished my Bachelor in Economics
 
 **Link(s) to work**
+
 1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 2. [https://www.learnpython.org/](https://www.learnpython.org/)
 
@@ -34,6 +37,7 @@
 **Today's Progress**: I have also installed GitHub, and grabed varios Stack/Forks from Freecodecamp for the project
 
 **Link(s) to work**
+
 1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 2. [https://github.com/ine-rmotr-curriculum](https://github.com/ine-rmotr-curriculum)
 
@@ -42,13 +46,14 @@
 **Today's Progress**: I have watched more Videos from the path for 'Data Analysis with Python' on FreeCodeCamp. I'm finished with Numpy and Panda.
 Now I will come to **"Data Cleaning"**
 
-**Thoughts** There are a lot of videos, but unfortunately there is not much training. 
-Tomorrow i will have a look at the exercises, they provide. 
-I found this exercises today. 
+**Thoughts** There are a lot of videos, but unfortunately there is not much training.
+Tomorrow i will have a look at the exercises, they provide.
+I found this exercises today.
 
-At some point, I have to find out, what kind of language we use here, so I can hide the examples. 
+At some point, I have to find out, what kind of language we use here, so I can hide the examples.
 
 **Link(s) to work**
+
 1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 2. [https://github.com/ine-rmotr-curriculum](https://github.com/ine-rmotr-curriculum)
 
@@ -61,15 +66,15 @@ I also looked up, which kind of langugage we are using here.
 According to my research it should be [Markdown](https://www.markdownguide.org/).
 
 I also figured out how to comment out the first day, according to this [website](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9).
-We will if it worked. 
+We will if it worked.
 
 `As answers to this Stack Overflow question reveal, using <!--- and ---> or <!-- and --> works (view source by clicking "Raw"):`
 
 **Thoughts** I need to find better training options. Maybe I should
 hang out in Codewars or check other **100 Days of Coding**-Blogs.
 
-
 **Link(s) to work**
+
 1. [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 2. [https://github.com/ine-rmotr-curriculum](https://github.com/ine-rmotr-curriculum)
 3. [Markdown](https://www.markdownguide.org/)
@@ -83,8 +88,8 @@ I've also read lectures on the [https://www.learnpython.org/](https://www.learnp
 
 **Thoughts** I'm watching a lot of videos. I should also focus on practical knowledge.
 
-
 **Link(s) to work**
+
 1. [LearnPython](https://www.learnpython.org/)
 2. [StatQuest on Youtube](https://www.youtube.com/c/joshstarmer)
 
@@ -97,4 +102,27 @@ It was a good run. Maybe I find special stuff for Data Anlayst, but for starters
 **Thoughts** I have done good stuff. I'm proud of myself.
 
 **Link(s) to work**
+
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+### Day 6: June 13, Wednesday
+
+**Today's Progress**: I looked in my book collection and I found nice practical book
+for my first steps in Data Analysis. In the book [Python Crash Course](https://ehmatthes.github.io/pcc/)
+I found a nice example in Chapter 2 about Data Visualisation. I did some nice visualisations.
+
+**Thoughts** I will work on this tomorrow
+
+**Link(s) to work**
+1. [Python Crash Course](https://ehmatthes.github.io/pcc/)
+
+
+### Day 7: June 14, Thursday
+
+**Today's Progress**: I worked the book [Python Crash Course](https://ehmatthes.github.io/pcc/)
+with Chapter 2 and the Data Visualisation.
+
+**Thoughts**  Today I was very tired, but it was a good run.
+
+**Link(s) to work**
+1. [Python Crash Course](https://ehmatthes.github.io/pcc/)
